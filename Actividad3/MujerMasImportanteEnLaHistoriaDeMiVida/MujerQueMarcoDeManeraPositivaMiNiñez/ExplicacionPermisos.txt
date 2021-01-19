@@ -1,0 +1,4 @@
+Niveles y tipos de permisos para archivos
+Lectura    4
+Escritura  2
+Ejecucion  1
